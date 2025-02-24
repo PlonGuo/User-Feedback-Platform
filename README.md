@@ -1,70 +1,60 @@
-# Getting Started with Create React App
+# User Feedback Platform
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+I developed a project called **User Feedback Platform**, which you can access through the following link:  
+[https://vercel.com/huizhirong-guos-projects/user-feedback-platform](https://vercel.com/huizhirong-guos-projects/user-feedback-platform)
 
-## Available Scripts
+---
 
-In the project directory, you can run:
+## Project Overview
 
-### `npm start`
+**User Feedback Platform** is a web-based application that allows users to leave feedback and manage their input efficiently. It offers a user-friendly interface for submitting, editing, and deleting feedback. With this application, you can:
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+- **Submit Feedback**: Users can easily provide their feedback with a simple and intuitive form.
+- **Edit Feedback**: Modify previously submitted feedback, allowing users to make updates or corrections.
+- **Delete Feedback**: Remove any unwanted feedback with a single click.
+- **Real-Time Updates**: All changes (add, edit, delete) are instantly reflected on the platform.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+---
 
-### `npm test`
+## Key Features
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- **CRUD Operations**: Full Create, Read, Update, and Delete functionalities for managing user feedback.
+- **Responsive Design**: Ensures a seamless user experience across all devices, including desktop, tablet, and mobile.
+- **User-Friendly Interface**: A clean and intuitive layout that makes it easy for users to navigate and interact with the platform.
 
-### `npm run build`
+---
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Tech Stack
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+This project is built using the following technologies:
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+- **React** – A JavaScript library for building dynamic and interactive user interfaces.
+- **Tailwind CSS** – A utility-first CSS framework for fast design and responsive styling.
+- **Node.js** – Handles backend logic and communication with the database.
+- **Axios** – For making HTTP requests and managing data flow between frontend and backend.
+- **Vercel** – For fast and reliable deployment, ensuring seamless online access.
 
-### `npm run eject`
+---
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+## Deployment
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+The project is deployed on the **Vercel** platform, providing a reliable and fast-loading user experience.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+Feel free to visit and explore **User Feedback Platform** – I hope it makes collecting and managing user feedback more efficient and enjoyable!
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+---
 
-## Learn More
+## Improvements & Future Plans
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+- **User Authentication**: Add authentication for personalized feedback management.
+- **Search & Filter**: Implement search and filtering options for easier feedback management.
+- **Enhanced User Experience**: Further improve UI/UX for a more engaging interaction.
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+---
 
-### Code Splitting
+## Screenshot
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+### Main Page – Feedback Management  
+Displays a list of user feedbacks with options to edit or delete each entry.  
 
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+![User Feedback Platform](https://vercel.com/huizhirong-guos-projects/user-feedback-platform)
